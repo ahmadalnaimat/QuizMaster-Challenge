@@ -22,13 +22,13 @@
             List<string> Questions = new List<string>();
             Questions.Add("What year is it now: ");
             Questions.Add("What organization is this course in: ");
-            Questions.Add("What is the first name of the coder of this: ");
+            Questions.Add("What is: 5*5: ");
             Questions.Add("What code language is this in: ");
 
             List<string> Answers = new List<string>();
             Answers.Add("2024");
             Answers.Add("ltuc");
-            Answers.Add("ahmad");
+            Answers.Add("25");
             Answers.Add("c#");
 
             int mark = 0;
